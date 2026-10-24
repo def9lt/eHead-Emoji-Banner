@@ -68,8 +68,8 @@ sudo pacman -S base-devel cmake python cairo pango libffi ffmpeg
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/photoshopgame/telegram-emoji-banner-bot.git
-cd telegram-emoji-banner-bot
+git clone https://github.com/def9lt/eHead-Emoji-Banner.git
+cd eHead-Emoji-Banner
 ```
 
 ### 2. Создание виртуального окружения
